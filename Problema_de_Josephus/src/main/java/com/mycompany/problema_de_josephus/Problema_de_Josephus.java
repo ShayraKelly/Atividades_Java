@@ -9,7 +9,7 @@ package com.mycompany.problema_de_josephus;
  * @author shayr
  */
 
- import java.util.ArrayList;
+import java.util.ArrayList;
 import java.util.List;
 
 public class Problema_de_Josephus {
